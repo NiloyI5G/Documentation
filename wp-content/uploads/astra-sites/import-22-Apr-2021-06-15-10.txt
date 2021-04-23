@@ -1,0 +1,123 @@
+
+Log - {"id":"645","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/theworkplace-logo-light.svg"}
+Log - {"id":"645","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/theworkplace-logo-light.svg"}
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "1131"
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "1131"
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about-bg.jpg
+Log - {"id":"1141","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about-bg.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/about-1.jpg
+Log - {"id":"1098","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/about-1.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/founder.jpg
+Log - {"id":"1148","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/founder.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/manager.jpg
+Log - {"id":"1149","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/manager.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/receptionist.jpg
+Log - {"id":"1150","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/receptionist.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about.png
+Log - {"id":"1120","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo2.png
+Log - {"id":"545","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo2.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo1.png
+Log - {"id":"542","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo1.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/start-up-logo-free-img.png
+Log - {"id":"544","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/start-up-logo-free-img.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo6.png
+Log - {"id":"543","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo6.png"}
+---- Processing WordPress Page - for Gutenberg ---- "1132"
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about-bg.jpg
+Log - {"id":"1141","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about-bg.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/work-floor.jpg
+Log - {"id":"1101","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/work-floor.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/full-kitchen.jpg
+Log - {"id":"1102","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/full-kitchen.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/conf-room.jpg
+Log - {"id":"1103","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/conf-room.jpg"}
+---- Processing WordPress Page - for Gutenberg ---- "1132"ontent/uploads/sites/656/2020/08/about.png
+Log - {"id":"1120","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about.png"}
+Log - {"id":"1141","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about-bg.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/work-floor.jpg
+Log - {"id":"1101","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/work-floor.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/full-kitchen.jpg
+Log - {"id":"1102","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/full-kitchen.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/conf-room.jpg
+Log - {"id":"1103","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/conf-room.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about.png
+Log - {"id":"1120","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about.png"}
+---- Processing WordPress Page - for Gutenberg ---- "1133"
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/aminities-bg.jpg
+Log - {"id":"1100","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/aminities-bg.jpg"}
+---- Processing WordPress Page - for Gutenberg ---- "1133"
+Source - http://localhost/documentation/wp-content/uploads/2020/07/aminities-bg.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/documentation/wp-content/uploads/2020/07/aminities-bg.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/aminities-bg.jpg","id":0}
+---- Processing WordPress Page - for Gutenberg ---- "1134"
+---- Processing WordPress Page - for Gutenberg ---- "1134"
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/aminities-bg.jpg
+Log - {"id":"1100","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/aminities-bg.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/facilites.jpg
+Log - {"id":"1092","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/facilites.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/affordable-pricing.jpg
+Log - {"id":"1094","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/affordable-pricing.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/people-inside-room.jpg
+Log - {"id":"950","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/people-inside-room.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about.png
+Log - {"id":"1120","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/08\/about.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo2.png
+Log - {"id":"545","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo2.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo1.png
+Log - {"id":"542","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo1.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/start-up-logo-free-img.png
+Log - {"id":"544","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/start-up-logo-free-img.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo6.png
+Log - {"id":"543","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo6.png"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/12-logo6.png
+Log - {"id":"543","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/12-logo6.png"}
+---- Processing WordPress Page - for Gutenberg ---- "1287"
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/hero-bg-01.jpg
+Log - {"id":"1087","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/hero-bg-01.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about.png
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/hero-bg-01.jpg
+Log - {"id":"1087","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/hero-bg-01.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/08/about.pngs.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/affordable-pricing.jpg
+Log - {"id":"1094","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/affordable-pricing.jpg"}
+Log - {"id":"1092","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/facilites.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/affordable-pricing.jpg
+Log - {"id":"1094","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/affordable-pricing.jpg"}
+Log - {"id":"1096","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/gallery-2.jpg"}
+Log - {"id":"1095","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/gallery-1.jpg"}g.jpg
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/07/gallery-2.jpg-img.jpg"}
+Log - {"id":"1096","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/07\/gallery-2.jpg"}g.jpg
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/gallery3-free-img.jpg
+Log - {"id":"552","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/gallery3-free-img.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/gallery1-free-img.jpg"}
+Log - {"id":"551","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/gallery1-free-img.jpg"}
+Log - {"id":"541","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/left-free-img.jpg"}pg
+Log - {"id":"553","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/gallery4-free-img.jpg"}
+Source - https://websitedemos.net/co-working-space-08/wp-content/uploads/sites/656/2020/06/left-free-img.jpg
+Log - {"id":"541","url":"http:\/\/localhost\/documentation\/wp-content\/uploads\/2020\/06\/left-free-img.jpg"}
+---- Processing MISC ----
+Post ID: 1259
+Post ID: 1260
+Post ID: 1261
+Post ID: 1262
+Post ID: 1225
+Post ID: 1226
+Post ID: 1227
+Post ID: 1228
+Post ID: 1229
+---- Processing MISC ----
+Post ID: 1259
+Post ID: 1260
+Post ID: 1261
+Post ID: 1262
+Post ID: 1225
+Post ID: 1226
+Post ID: 1227
+Post ID: 1228
+Post ID: 1229
+Batch Process Complete!
+Batch Process Complete!
+Complete 
